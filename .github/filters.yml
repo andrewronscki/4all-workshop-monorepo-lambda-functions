@@ -1,0 +1,4 @@
+get-sms-responses:
+  - "functions/get-sms-responses/**/*"
+get-cities:
+  - "functions/get-cities/**/*"
